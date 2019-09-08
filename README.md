@@ -22,12 +22,12 @@ the "seznam" contains list of products you normally buy and must contain 3 colum
 
 <br> UI looks like this:
 <br> main screen with the settings
-![alt text](https://github.com/IvanJJill/nakup/blob/master/doc/front.PNG)
+<br>![alt text](https://github.com/IvanJJill/nakup/blob/master/doc/front.PNG)
 <br> select items from one of the section
-![alt text](https://github.com/IvanJJill/nakup/blob/master/doc/selection.PNG)
+<br>![alt text](https://github.com/IvanJJill/nakup/blob/master/doc/selection.PNG)
 <br> select amount of selected items
-![alt text](https://github.com/IvanJJill/nakup/blob/master/doc/amount.PNG)
+<br>![alt text](https://github.com/IvanJJill/nakup/blob/master/doc/amount.PNG)
 <br> add a custom message to the email
-![alt text](https://github.com/IvanJJill/nakup/blob/master/doc/add_message.PNG)
+<br>![alt text](https://github.com/IvanJJill/nakup/blob/master/doc/add_message.png)
 <br> email received with the list
-![alt text](https://github.com/IvanJJill/nakup/blob/master/doc/email_arrived.PNG)
+<br>![email arrived](https://github.com/IvanJJill/nakup/blob/master/doc/email_arrived.png)
